@@ -66,5 +66,12 @@ The **Gurukul Public School App** is a mobile application developed using **Kotl
       - Build the app using Android Studio.
       - Run the app on an Android emulator or a physical Android device.
   
+## Download and Try
+
+To download and try this app, [click here](https://drive.google.com/file/d/1qdeC56WnMH_yf5dqn3FDUcxouB87P3QG/view) or simply scan the QR code below:
+
+<img src="https://github.com/user-attachments/assets/76ac4bec-b19d-41c4-9b1f-71a72a44e91f" width="200" />
+
+  
 ## Contribution
 Feel free to submit issues, fork the repository, and send pull requests. Contributions are welcomed to improve the app's functionality and user experience.
