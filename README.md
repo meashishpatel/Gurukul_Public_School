@@ -41,3 +41,21 @@ The **Gurukul Public School App** is a mobile application developed using **Kotl
 - **Backend**: Firebase Firestore, Firebase Remote Config
 - **Push Notifications**: Firebase Cloud Messaging (FCM)
 - **Location Services**: Google Maps API
+
+## Installation
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/yourusername/gurukul-public-school-app.git
+   ```
+2. **Open the project in Android Studio:**
+3. **Connect Firebase:**
+   - Ensure Firebase services (Firestore, Remote Config, and Cloud Messaging) are properly configured by adding the google-services.json file:
+      - Download the google-services.json file from the Firebase console.
+      - Place it in the app/ directory of your project.
+4. Build and Run:
+      - Build the app using Android Studio.
+      - Run the app on an Android emulator or a physical Android device.
+  
+## Contribution
+Feel free to submit issues, fork the repository, and send pull requests. Contributions are welcomed to improve the app's functionality and user experience.
