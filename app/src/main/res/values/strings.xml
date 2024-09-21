@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Gurukul Public School</string>
+    <string name="school_descriptipm">Gurukul Public School is a premier educational institution that is committed to providing a high-quality education to students. The school is known for its exceptional faculty and state-of-the-art facilities.
+
+Gurukul Public School offers a wide range of subjects, including math, science, English, history, and foreign languages. The school also places a strong emphasis on extracurricular activities, such as sports, music, and clubs, to help students develop their interests and talents.</string>
+
+    <string name="principle_message">As the principal of Gurukul Public School, I am delighted to have this opportunity to introduce myself and share my thoughts with our school community.
+
+Gurukul Public School has a long-standing tradition of providing a high-quality education to students. We are committed to creating an environment where students can learn, grow, and thrive. Our dedicated faculty and staff members work hard to ensure that each student receives the best education possible.
+
+We believe that education is not just about acquiring knowledge, but also about developing important life skills such as integrity, responsibility, and respect. We place a strong emphasis on character development and values education, and our students are encouraged to think critically and creatively.I am honored to be the principal of Gurukul Public School and I look forward to working with our school community to provide the best education for our students.
+
+\n \nThank you for your continued support and I hope you enjoy reading this edition of our school magazine.
+
+\nSincerely,
+\nDipali Choudhary
+\nPrincipal, Gurukul Public School</string>
+
+    <string name="director_message">As the Director of Gurukul Public School, it is my pleasure to welcome you to our school community. I am honored to be a part of such an outstanding institution that has a long-standing tradition of providing a high-quality education to students.
+
+At Gurukul Public School, we are committed to creating an environment where students can learn, grow, and thrive. Our dedicated faculty and staff members work hard to ensure that each student receives the best education possible. We believe in the power of education to transform lives, and we are proud to play a role in shaping the future leaders of our society.I am proud to be a part of the Gurukul Public School community and I look forward to working together to provide the best education for our students. \n \nThank you for your support.
+
+\nSincerely,
+\nOm Prakash Patel
+\nDirector, Gurukul Public School</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>

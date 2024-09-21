@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "707700407410",
+    "project_id": "gurukul-public-school-f6a9b",
+    "storage_bucket": "gurukul-public-school-f6a9b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707700407410:android:8492f1e9f5a277e14916eb",
+        "android_client_info": {
+          "package_name": "com.example.gurukulpublicschool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707700407410-67kqti7n1cnjsosla3359nmospcv08h4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOxjqBFRGguDeg-RSTsSGbmbYE4pU6QOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707700407410-67kqti7n1cnjsosla3359nmospcv08h4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

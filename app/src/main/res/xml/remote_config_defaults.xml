@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<defaultsMap>
+    <entry>
+        <key>
+            announcement_text
+        </key>
+        <value>
+            No new announcements
+        </value>
+    </entry>
+</defaultsMap>
