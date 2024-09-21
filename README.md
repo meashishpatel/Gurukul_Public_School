@@ -55,7 +55,7 @@ The **Gurukul Public School App** is a mobile application developed using **Kotl
 
 1. **Clone the repository:**
    ```bash
-   [git clone https://github.com/yourusername/gurukul-public-school-app.git](https://github.com/meashishpatel/Gurukul_Public_School.git)
+   git clone https://github.com/yourusername/gurukul-public-school-app.git
    ```
 2. **Open the project in Android Studio:**
 3. **Connect Firebase:**
